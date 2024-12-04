@@ -1,0 +1,10 @@
+streamlit
+SpeechRecognition
+pyttsx3
+ollama
+langchain_ollama
+opencv-python
+pillow
+selenium
+numpy
+sounddevice
